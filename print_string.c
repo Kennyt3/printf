@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *print_chars - prints a char
+ *print_chars - prints char
  *@list: list of arguments
  *@func: pointer to the struct flags in which we turn the flags on
  *Return: number of characters printed.
